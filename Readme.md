@@ -1,4 +1,4 @@
-Welcom to Coding School
+# Cartoonify image
 
 Run the following commands before running - 
 
